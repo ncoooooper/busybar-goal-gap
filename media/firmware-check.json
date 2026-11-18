@@ -13,5 +13,27 @@
   "frames": 54,
   "distinct_frames": 21,
   "exit": "App io.ncoooooper.goalgap exited: finished; heap peak 84.3 of 128 KiB",
-  "sha256": "621380e25d9c4b9f203ef2d2e254b9d3acb999e594d89fbbf3e9a9db7c6c18f1"
+  "sha256": "d221fc160ce4aab9cb94414576a142b852e3771be04c27557b64704aec454b77",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "On-device controls",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok",
+        "up",
+        "down",
+        "start"
+      ]
+    ],
+    "frames": 160,
+    "distinct_by_flow": [
+      7,
+      26
+    ],
+    "exit": "App io.btype.goalgap exited: finished; heap peak 89.4 of 128 KiB"
+  }
 }
