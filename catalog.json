@@ -1,0 +1,6 @@
+{
+  "category": "utilities",
+  "short_description": "Calculate how much of a purchase remains and how many regular deposits it will take.",
+  "description": "Calculate how much of a purchase remains and how many regular deposits it will take. Price 20,000 minus 8,000 saved gives 60% remaining and six deposits of 2,000.",
+  "changelog": "First public version."
+}

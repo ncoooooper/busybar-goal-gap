@@ -1,0 +1,17 @@
+{
+  "id": "BB-020",
+  "source": "Local on-device computation using editable numeric inputs.",
+  "scenario": "Price 20,000 minus 8,000 saved gives 60% remaining and six deposits of 2,000.",
+  "keys": [
+    "up",
+    "down",
+    "ok",
+    "up",
+    "down",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 21,
+  "exit": "App io.ncoooooper.goalgap exited: finished; heap peak 84.2 of 128 KiB",
+  "sha256": "39c33aa1af5c2e6e74d60d7d96916bf1a562dcdf13c0c755bc8597336551bd29"
+}

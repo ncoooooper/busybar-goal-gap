@@ -4,6 +4,6 @@
   "name": "Goal Gap",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Goal Gap",
+  "description": "Calculate how much of a purchase remains and how many regular deposits it will take.",
   "author": "ncoooooper"
 }
