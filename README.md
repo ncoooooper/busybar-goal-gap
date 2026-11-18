@@ -4,6 +4,20 @@ Calculate how much of a purchase remains and how many regular deposits it will t
 
 When deciding whether a purchase can wait another month, a deposit count is easier to use than a percentage. Goal Gap gives you both from the same three amounts.
 
+## Screen transitions
+
+Change the target and check how many deposits remain. The new amount appears below the caption.
+
+![Goal Gap front display. Change the target and check how many deposits remain. The new amount appears below the caption.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Goal Gap rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Count the deposits left
 
 1. Start on **Remaining**. With a price of 20,000 and 8,000 already set aside, the front shows 60.0% still to save.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

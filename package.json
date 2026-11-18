@@ -1,7 +1,7 @@
 {
   "name": "busybar-goal-gap",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculate how much of a purchase remains and how many regular deposits it will take.",
   "author": "ncoooooper",
   "type": "module",
