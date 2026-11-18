@@ -27,4 +27,4 @@ const fields=[
     "step": 100
   }
 ];
-worksheet({name:"Goal Gap",fields,calculate,accent:"#ECA64C",motion:{"motif":"cells","color":"#ECA64C","shine":"#FFF0BB"}});
+worksheet({name:"Goal Gap",fields,calculate,accent:"#ECA64C",motion:{enabled:false}});
